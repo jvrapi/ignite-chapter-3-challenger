@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-about">About</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-diagram">Challenges</a>
+  <a href="#-challenges">Challenges</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configurations">Configurations</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ In [games repository](./src/modules/games/repositories/implementations/GamesRepo
 - [x] Using the Raw SQL, the `countAllGames` method should be able to count all games registered.
 - [X] Using Query Build, the `findUsersByGameId` method should be able to take a game id and return all users who own the game.
 
-## Configurations
+## ⚙️ Configurations
 To run this repository, it's necessary that  you have the Postgres in your machine. If you use `docker`, you can run this command:
 
 ```bash
